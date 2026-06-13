@@ -1,4 +1,4 @@
-
+update
   # 🌍 MarocTrip AI
 
 MarocTrip AI is a modern, AI-powered travel planning application designed to help users curate their perfect trip to Morocco. With an intuitive interface, it guides users through selecting destinations, travel styles, budgets, and interests to generate personalized itineraries.
